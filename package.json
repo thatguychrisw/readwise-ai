@@ -1,0 +1,21 @@
+{
+  "name": "readwise",
+  "version": "1.0.0",
+  "main": "tsx readwise.ts",
+  "scripts": {
+    "start": "tsx readwise.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thatguychrisw",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.5"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "openai": "^4.85.4",
+    "readline-sync": "^1.4.10"
+  }
+}
