@@ -15,7 +15,7 @@
 
 ## 🎬 Demo
 ```sh
-ts-node readwise-gpt.ts "What are common mistakes with useEffect in React?"
+npm start "What are common mistakes with useEffect in React?"
 ```
 
 ### 👀 Example Output
