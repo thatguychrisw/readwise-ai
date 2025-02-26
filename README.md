@@ -8,8 +8,8 @@
 - **🏷️ Title** (for easy search in Readwise).
 - **🔑 Key Takeaways** (3-5 bullet points).
 - **🧠 Memory Hook** (to reinforce learning with spatial recall).  
-- **✅ Retry before saving** if the response isn’t quite right.  
-- **✅ Send directly to Readwise** in a **beautifully structured format**!
+✅ **Retry before saving** if the response isn’t quite right.  
+✅ **Send directly to Readwise** in a **beautifully structured format**!
 
 ---
 
