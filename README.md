@@ -4,12 +4,12 @@
 
 ## 🌟 What This Does
 ✅ **Query GPT-4 Turbo** for **concise, structured knowledge**.  
+✅ **Retry before saving** if the response isn’t quite right.  
+✅ **Send directly to Readwise** in a **beautifully structured format**!
 ✅ **Automatically format answers** with:
 - **🏷️ Title** (for easy search in Readwise).
 - **🔑 Key Takeaways** (3-5 bullet points).
 - **🧠 Memory Hook** (to reinforce learning with spatial recall).  
-✅ **Retry before saving** if the response isn’t quite right.  
-✅ **Send directly to Readwise** in a **beautifully structured format**!
 
 ---
 
